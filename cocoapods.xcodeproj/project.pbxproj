@@ -56,15 +56,23 @@
 		50B708B02A0B510B008EC79F /* cocoapods */ = {
 			isa = PBXGroup;
 			children = (
-				50B708B12A0B510B008EC79F /* AppDelegate.swift */,
-				50B708B32A0B510B008EC79F /* SceneDelegate.swift */,
 				50B708B52A0B510B008EC79F /* ViewController.swift */,
 				50B708B72A0B510B008EC79F /* Main.storyboard */,
 				50B708BA2A0B510C008EC79F /* Assets.xcassets */,
-				50B708BC2A0B510C008EC79F /* LaunchScreen.storyboard */,
+				50B708C52A0B511E008EC79F /* Supporting Files */,
 				50B708BF2A0B510C008EC79F /* Info.plist */,
 			);
 			path = cocoapods;
+			sourceTree = "<group>";
+		};
+		50B708C52A0B511E008EC79F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				50B708B12A0B510B008EC79F /* AppDelegate.swift */,
+				50B708B32A0B510B008EC79F /* SceneDelegate.swift */,
+				50B708BC2A0B510C008EC79F /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
